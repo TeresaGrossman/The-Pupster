@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Puppy1",
+        "image":"https://www.pexels.com/photo/animal-beagle-canine-close-up-460823/"
+    },
+    {
+        "id": 2,
+        "name": "Puppy2",
+        "image":""
+    },
+    {
+        "id": 3,
+        "name": "Puppy3",
+        "image":""
+    },
+    {
+        "id": 4,
+        "name": "Puppy4",
+        "image":""
+    },
+    {
+        "id": 5,
+        "name": "Puppy5",
+        "image":""
+    },
+    {
+        "id": 6,
+        "name": "Puppy6",
+        "image":""
+    },
+    {
+        "id": 7,
+        "name": "Puppy7",
+        "image":""
+    },
+    {
+        "id": 8,
+        "name": "Puppy8",
+        "image":""
+    },
+    {
+        "id": 9,
+        "name": "Puppy9",
+        "image":""
+    },
+    {
+        "id": 10,
+        "name": "Puppy10",
+        "image":""
+    }
+]
